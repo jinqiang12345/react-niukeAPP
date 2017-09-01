@@ -1,6 +1,5 @@
 # antd-mobile with webpack
-![image](https://github.com/jinqiang12345/rreact-niukeAPP/blob/master/screenshots/)%40OH6TNTU9%60P%24Q%5DM2PSHYBG.png)
-
+You can see screenshots of this project in the screenshots folder.
 basic proj demo with webpack@1
 
 ### Install & Start
